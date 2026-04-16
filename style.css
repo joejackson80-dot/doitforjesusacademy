@@ -563,6 +563,7 @@ p  { font-size: .97rem; line-height: 1.8; color: var(--text-med); }
 .about-img {
   width: 100%; height: 560px;
   object-fit: cover;
+  object-position: top center;
   border-radius: 14px;
 }
 
