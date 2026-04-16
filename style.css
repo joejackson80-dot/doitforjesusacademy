@@ -565,6 +565,7 @@ p  { font-size: .97rem; line-height: 1.8; color: var(--text-med); }
   object-fit: cover;
   border-radius: 14px;
 }
+
 .about-badge {
   position: absolute;
   bottom: -1.75rem; right: -1.75rem;
